@@ -1,0 +1,31 @@
+/*.navbar-default{
+	background-color: unset;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: unset;
+    background-color: unset; 
+}
+
+.table-hover>tbody>tr:hover{
+	background: unset;
+}
+
+.navbar-default .navbar-brand {
+    color: unset;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: unset;
+}*/
+
+
+
+
+.logout{
+    color: #555;
+    background-color: transparent;
+    border: none;
+    /* border-left: 1px solid white; */
+    padding: 8px 17px;
+}
